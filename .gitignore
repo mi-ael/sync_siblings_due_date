@@ -1,0 +1,3 @@
+venv/
+.mypy_cache/
+sync_siblings_due_date.ankiaddon
